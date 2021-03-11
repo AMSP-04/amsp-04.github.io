@@ -1,8 +1,8 @@
-Efficient and effective use of NATO and national Modelling & Simulation (M&S) capabilities requires standards for connecting and integrating M&S components across the training system enterprise.
+Efficient and effective use of Modelling & Simulation (M&S) capabilities requires standards for connecting and integrating M&S components across the training system enterprise.
 
-The NATO Education and Training Network Federation Architecture and FOM Design (NETN FAFD) is a NATO Allied Modelling and Simulation Publication (AMSP-04) covered by a NATO standard recommendation (STANREC 4800) for representing shared data in distributed simulation environments where M&S services (federates) are connected and federated using the NATO mandated High-Level Architecture (HLA) standard (STANAG 4603).
+The NATO Education and Training Network Federation Architecture and FOM Design (NETN FAFD) is a NATO Allied Modelling and Simulation Publication (AMSP-04) covered by a NATO standard recommendation (STANREC 4800). It specifies how to represent and share data in distributed simulation environments where M&S services (federates) are connected and federated using the NATO mandated High-Level Architecture (HLA) standard (STANAG 4603).
 
-The NETN FOM is an IEEE 1516-2010 HLA Federation Object Model consisting of a set of FOM modules that define classes of objects and interactions used to exchange information in a distributed simulation.
+AMSP-04 includes the NETN FOM as an IEEE 1516-2010 HLA Federation Object Model consisting of a set of FOM modules that defines classes of objects and interactions used to exchange information in a distributed simulation.
 
 | Edition | Status | STANAG/STANREC | NETN FOM Release|
 | --- | --- | --- |--- |
