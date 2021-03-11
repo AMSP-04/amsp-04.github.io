@@ -2,7 +2,7 @@ Efficient and effective use of NATO and national Modelling & Simulation (M&S) ca
 
 NETN FAFD is a NATO standard recommendation (STANREC 4800) for representing shared data in distributed simulation environments where M&S services (federates) are connected and federated using the NATO mandated High-Level Architecture (HLA) standard (STANAG 4603).
 
-The NETN FOM is a set an IEEE 1516-2010 HLA Federation Object Model consisting of a set of FOM modules that define classes of objects and interactions used to exchange information in a distributed simulation.
+The NETN FOM is an IEEE 1516-2010 HLA Federation Object Model consisting of a set of FOM modules that define classes of objects and interactions used to exchange information in a distributed simulation.
 
 | Edition | Status | STANAG/STANREC | NETN FOM Release|
 | --- | --- | --- |--- |
