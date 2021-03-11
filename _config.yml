@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 layout: page
-title: "AMSP-04 NETN FOM"
-description: "NATO Education and Training Network - Federation Object Model"
+title: "AMSP-04 NETN FAFD"
+description: "NATO Education and Training Network Federation Architecture and Federation Object Model (FOM)"
 show_downloads: true
 github:
   netn2: https://github.com/AMSP-04/NETN-FOM/releases/tag/v2.0
