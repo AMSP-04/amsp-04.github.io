@@ -1,5 +1,10 @@
 ---
 ---
+
+// Breakpoints
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
+
 // Headers
 $header-heading-color: #fff !default;
 $header-bg-color: #09128b !default;
@@ -7,4 +12,28 @@ $header-bg-color-secondary: #1e78d1 !default;
 
 
 @import "{{ site.theme }}";
+
+.main-content {
+    word-wrap: break-word;
+  
+    :first-child {
+      margin-top: 0;
+    }
+  
+    @include large {
+      max-width: 164rem;
+      padding: 2rem 6rem;
+      margin: 0 auto;
+      font-size: 1.1rem;
+    }
+  
+    @include medium {
+      padding: 2rem 4rem;
+      font-size: 1.1rem;
+    }
+  
+    @include small {
+      padding: 2rem 1rem;
+      font-size: 1rem;
+    }
 
