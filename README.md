@@ -1,4 +1,4 @@
-# NATO Education and Training Network Federation Architecture and FOM Design
+# NATO Education and Training Network Federation Object Model
 
 Efficient and effective use of NATO and national Modelling & Simulation (M&S) capabilities requires standards for connecting and integrating M&S components across the training system enterprise.
 
