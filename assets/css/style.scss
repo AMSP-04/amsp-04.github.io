@@ -10,6 +10,8 @@ $header-heading-color: #fff !default;
 $header-bg-color: #09128b !default;
 $header-bg-color-secondary: #1e78d1 !default;
 
+@import "{{ site.theme }}";
+
 .main-content {
     word-wrap: break-word;
   
