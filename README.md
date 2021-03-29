@@ -9,6 +9,6 @@ AMSP-04 includes the NETN FOM as an HLA Federation Object Model (FOM) consisting
 | Standard  | Status | NETN FOM| 
 | --- | --- | --- |
 | [MSG-068 NETN](file:///Users/bjornlofstrand/Downloads/$$TR-MSG-068-ALL%20(1).pdf)| Released <br/>February 2012| NETN FOM v1.0| 
-|[AMSP-04 Ed A](https://nso.nato.int/nso/zPublic/ap/PROM/AMSP-04%20EDA%20V1%20E.pdf) <br/>[STANREC 4800 Ed 1](https://nso.nato.int/nso/zPublic/stanrecs/PROM/4800EFed01.pdf) |Released<br/>March 2018| [NETN FOM v2.0](https://github.com/AMSP-04/NETN-FOM/releases/tag/v2.0)| 
-|AMSP-04 Ed B <br/> STANREC 4800 Ed 2|Expected <br/>March 2021| [NETN FOM v3.0 RC1](https://amsp-04.github.io/NETN-FOM/)| 
+|AMSP-04 Ed A <br/>STANREC 4800 Ed 1|Promulgated on<br/>29 March 2018| [NETN FOM v2.0](https://github.com/AMSP-04/NETN-FOM/releases/tag/v2.0)| 
+|AMSP-04 Ed B <br/>STANREC 4800 Ed 2|Promulgated on<br/>26 March 2021| [NETN FOM v3.0](https://amsp-04.github.io/NETN-FOM/)| 
 |AMSP-04 Ed C| Expected <br/>2024 | NETN FOM v4.0 |
