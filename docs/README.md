@@ -6,7 +6,7 @@ AMSP-04 specifies how to represent and share data in distributed simulation envi
 
 AMSP-04 includes the NETN FOM as an HLA Federation Object Model (FOM) consisting of a set of modules that defines classes of objects and interactions used to exchange information in a distributed simulation.
 
-| Document  | Status | NETN FOM Files (download zip)|
+| FAFD Document  | Status | NETN FOM Files (download zip)|
 | --- | --- | --- |
 |[RTO-TR-MSG-068](https://www.sto.nato.int/publications/STO%20Technical%20Reports/RTO-TR-MSG-068/$$TR-MSG-068-ALL.pdf)|Published on<br/>22 February 2012| [NETN FOM v1.0](./fom-versions/NETNFOMv1.0.zip)| 
 |AMSP-04 Ed A <br/>STANREC 4800 Ed 1|Promulgated on<br/>29 March 2018| [NETN FOM v2.0](./fom-versions/NETNFOMv2.0.zip)| 
