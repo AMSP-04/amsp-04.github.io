@@ -12,7 +12,7 @@ AMSP-04 includes the NETN FOM as an HLA Federation Object Model (FOM) consisting
 
 |https://www.sto.nato.int/publications/STO%20Technical%20Reports/RTO-TR-MSG-068/$$TR-MSG-068-ALL.pdf[RTO-TR-MSG-068]
 |Published on 22 February 2012
-|./fom-versions/NETNFOMv1.0.zip[NETN FOM v1.0]
+|link:./fom-versions/NETNFOMv1.0.zip[NETN FOM v1.0]
 
 |AMSP-04 Ed A / STANREC 4800 Ed 1
 |Promulgated on 29 March 2018
