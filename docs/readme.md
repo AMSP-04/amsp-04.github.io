@@ -6,26 +6,12 @@ AMSP-04 specifies how to represent and share data in distributed simulation envi
 
 AMSP-04 includes the NETN FOM as an HLA Federation Object Model (FOM) consisting of a set of modules that defines classes of objects and interactions used to exchange information in a distributed simulation.
 
-[cols="1,1,1"]
-|===
-|FAFD Document|Status|Download
-
-|https://www.sto.nato.int/publications/STO%20Technical%20Reports/RTO-TR-MSG-068/$$TR-MSG-068-ALL.pdf[RTO-TR-MSG-068]
-|Published on 22 February 2012
-|link:./fom-versions/NETNFOMv1.0.zip[NETN FOM v1.0]
-
-|AMSP-04 Ed A / STANREC 4800 Ed 1
-|Promulgated on 29 March 2018
-|link:./fom-versions/NETNFOMv2.0.zip[NETN FOM v2.0]
-
-|AMSP-04 Ed B / STANREC 4800 Ed 2
-|Promulgated on<br/>26 March 2021
-|link:./fom-versions/NETNFOMv3.0.zip[NETN FOM v3.0]
-
-|AMSP-04 Ed C
-|Expected March 2023
-|NATO Federation Object Model for Distributed Synthetic Training (NETN FOM v4.0)
-|===
+| FAFD Document  | Status | NETN FOM Files (download zip)|
+| --- | --- | --- |
+|[RTO-TR-MSG-068](https://www.sto.nato.int/publications/STO%20Technical%20Reports/RTO-TR-MSG-068/$$TR-MSG-068-ALL.pdf)|Published on<br/>22 February 2012| [NETN FOM v1.0](./fom-versions/NETNFOMv1.0.zip)| 
+|AMSP-04 Ed A <br/>STANREC 4800 Ed 1|Promulgated on<br/>29 March 2018| [NETN FOM v2.0](./fom-versions/NETNFOMv2.0.zip)| 
+|[AMSP-04 Ed B](https://nso.nato.int/nso/nsdd/main/standards/ap-details/3159/EN) <br/>[STANREC 4800 Ed 2](https://nso.nato.int/nso/nsdd/main/standards/stanrec-details/9434/EN)|Promulgated on<br/>26 March 2021|  [NETN FOM v3.0](./fom-versions/NETNFOMv3.0.zip)| 
+|AMSP-04 Ed C| Expected <br/>2024 | NATO Federation Object Model for Distributed Synthetic Training (NETN FOM v4.0) |
 
 The NETN FOM is an identified set of HLA FOM Modules. The modules are recommended for use when implementing NATO AMSP-04 NETN FAFD compliant distributed simulation. It provides a standard interfaces for the representation of simulated entities, events, and other models of real-world objects, processes and phenomenon. It also provide standard interfaces and patterns for simulation interplay between systems in a federated distributed simulation to allow multi-resolution modelling, transfer of modelling responsibilities, tasking and simulation control. 
 
@@ -47,19 +33,6 @@ The NETN FOM v3.0 consists of the following modules:
 |NETN&#8209;ETR| Interface for sending simulation tasks to entities represented in a federated distributed simulation.|
 |NETN&#8209;ORG| Representation of the state of units including command structure and relationship between organizations. |
 |NETN&#8209;AIS|Represent vessel traffic in a simulation using AIS messages.
-
-= Standards, Reference and Guidance Documents
-
-== References
- * https://nso.nato.int/nso/nsdd/main/standards[STANAG 4603 Ed 2] - https://standards.ieee.org/findstds/standard/1516-2010.html[IEEE 1516-2010 - High Level Architecture (HLA)]
- * https://nso.nato.int/nso/nsdd/main/standards[STANREC 4800 Ed 2]- https://nso.nato.int/nso/nsdd/main/standards[AMSP-04 Ed B - NATO Education and Training Network Federation Architecture and Federation Object Model Design]
- * https://www.sisostds.org/ProductsPublications/Standards/SISOStandards.aspx[SISO-STD-007-2008: Standard for Military Scenario Definition Language (MSDL) (reaffirmed 11 May 2015)]
- * https://standards.ieee.org/findstds/standard/1516-2010.html[IEEE 1516-2010 IEEE Standard for Modeling and Simulation (M&S) High Level Architecture (HLA) -- Framework and Rules]
- * https://standards.ieee.org/develop/project/1516.1.html[IEEE 1516.1-2010  IEEE Standard for Modeling and Simulation (M&S) High Level Architecture (HLA) -- Federate Interface Specification]
- * https://standards.ieee.org/develop/project/1516.2.html[IEEE 1516.2-2010  IEEE Standard for Modeling and Simulation (M&S) High Level Architecture (HLA) -- Object Model Template (OMT) Specification]
- * https://www.sisostds.org/ProductsPublications/Standards/SISOStandards.aspx[SISO-STD-001-2015: Standard for Guidance, Rationale, and Interoperability Modalities (GRIM) for the Real-time Platform Reference Federation Object Model (RPR FOM), Version 2.0 (10 Aug 2015)]
- * https://www.sisostds.org/ProductsPublications/Standards/SISOStandards.aspx[SISO-STD-001.1-2015: Standard for Real-time Platform Reference Federation Object Model (RPR FOM), Version 2.0 (10 Aug 2015) ]
- * https://www.sisostds.org/ProductsPublications/ReferenceDocuments.aspx[SISO-REF-010-2017: Reference for Enumerations for Simulation Interoperability]
 
 == Bibliography
 ## Standards, Reference and Guidance Documents
