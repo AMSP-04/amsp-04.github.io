@@ -16,11 +16,11 @@ AMSP-04 includes the NETN FOM as an HLA Federation Object Model (FOM) consisting
 
 |AMSP-04 Ed A / STANREC 4800 Ed 1
 |Promulgated on 29 March 2018
-|./fom-versions/NETNFOMv2.0.zip[NETN FOM v2.0]
+|link:./fom-versions/NETNFOMv2.0.zip[NETN FOM v2.0]
 
 |AMSP-04 Ed B / STANREC 4800 Ed 2
 |Promulgated on<br/>26 March 2021
-|./fom-versions/NETNFOMv3.0.zip[NETN FOM v3.0]
+|link:./fom-versions/NETNFOMv3.0.zip[NETN FOM v3.0]
 
 |AMSP-04 Ed C
 |Expected March 2023
