@@ -34,27 +34,16 @@ The NETN FOM v3.0 consists of the following modules:
 |NETN&#8209;ORG| Representation of the state of units including command structure and relationship between organizations. |
 |NETN&#8209;AIS|Represent vessel traffic in a simulation using AIS messages.
 
-== Bibliography
 ## Standards, Reference and Guidance Documents
-
-* **NATO**
- * [STANAG 4603 Ed 2](https://nso.nato.int/nso/nsdd/stanagdetails.html?idCover=8285&LA=EN) - [IEEE 1516-2010 - High Level Architecture (HLA)](https://standards.ieee.org/findstds/standard/1516-2010.html)
- * [STANREC 4800 Ed 1](https://nso.nato.int/nso/nsdd/stanrecdetails.html?idCover=8834)- [AMSP-04 Ed A - NATO Education and Training Network Federation Architecture and Federation Object Model Design](https://nso.nato.int/nso/nsdd/APdetails.html?APNo=2268&LA=EN)
- 	* [AMSP-04 NETN FAFD FOM Modules](https://www.sto.nato.int/pages/natostandards.aspx)
- * [STANAG 2019 Ed.: 7](https://nso.nato.int/nso/nsdd/stanagdetails.html?idCover=8552&LA=EN) - [APP-6 Ed D - NATO Joint Military Symbology](https://nso.nato.int/nso/nsdd/apdetails.html?APNo=1912)
-* **C-BML**
- * [SISO-STD-011-2014: Standard for Coalition Battle Management Language (C-BML) Phase 1, Version 1.0 (14 Apr 2014)](https://www.sisostds.org/ProductsPublications/Standards/SISOStandards.aspx)
- * [SISO-GUIDE-004-2017: Guide for Coalition Battle Management Language (C-BML) Phase 1](https://www.sisostds.org/ProductsPublications/GuidanceProducts.aspx)
-* **MSDL**
- * [SISO-STD-007-2008: Standard for Military Scenario Definition Language (MSDL) (reaffirmed 11 May 2015)](https://www.sisostds.org/ProductsPublications/Standards/SISOStandards.aspx)
-* **HLA**
- * [IEEE 1516-2010 IEEE Standard for Modeling and Simulation (M&S) High Level Architecture (HLA) -- Framework and Rules](https://standards.ieee.org/findstds/standard/1516-2010.html)
- * [IEEE 1516.1-2010  IEEE Standard for Modeling and Simulation (M&S) High Level Architecture (HLA) -- Federate Interface Specification](https://standards.ieee.org/develop/project/1516.1.html)
- * [IEEE 1516.2-2010  IEEE Standard for Modeling and Simulation (M&S) High Level Architecture (HLA) -- Object Model Template (OMT) Specification](https://standards.ieee.org/develop/project/1516.2.html)
-* **RPR-FOM**
- * [SISO-STD-001-2015: Standard for Guidance, Rationale, and Interoperability Modalities (GRIM) for the Real-time Platform Reference Federation Object Model (RPR FOM), Version 2.0 (10 Aug 2015)](https://www.sisostds.org/ProductsPublications/Standards/SISOStandards.aspx)
- * [SISO-STD-001.1-2015: Standard for Real-time Platform Reference Federation Object Model (RPR FOM), Version 2.0 (10 Aug 2015) ](https://www.sisostds.org/ProductsPublications/Standards/SISOStandards.aspx)
- * [SISO-REF-010-2017: Reference for Enumerations for Simulation Interoperability](https://www.sisostds.org/ProductsPublications/ReferenceDocuments.aspx)
+* [STANAG 4603 Ed 2](https://nso.nato.int/nso/nsdd/stanagdetails.html?idCover=8285&LA=EN) - [IEEE 1516-2010 - High Level Architecture (HLA)](https://standards.ieee.org/findstds/standard/1516-2010.html)
+* [STANREC 4800 Ed 2](https://nso.nato.int/nso/nsdd/stanrecdetails.html?idCover=8834)- [AMSP-04 Ed B - NATO Education and Training Network Federation Architecture and Federation Object Model Design](https://nso.nato.int/nso/nsdd/APdetails.html?APNo=2268&LA=EN)
+* [SISO-STD-007-2008: Standard for Military Scenario Definition Language (MSDL) (reaffirmed 11 May 2015)](https://www.sisostds.org/ProductsPublications/Standards/SISOStandards.aspx)
+* [IEEE 1516-2010 IEEE Standard for Modeling and Simulation (M&S) High Level Architecture (HLA) -- Framework and Rules](https://standards.ieee.org/findstds/standard/1516-2010.html)
+* [IEEE 1516.1-2010  IEEE Standard for Modeling and Simulation (M&S) High Level Architecture (HLA) -- Federate Interface Specification](https://standards.ieee.org/develop/project/1516.1.html)
+* [IEEE 1516.2-2010  IEEE Standard for Modeling and Simulation (M&S) High Level Architecture (HLA) -- Object Model Template (OMT) Specification](https://standards.ieee.org/develop/project/1516.2.html)
+* [SISO-STD-001-2015: Standard for Guidance, Rationale, and Interoperability Modalities (GRIM) for the Real-time Platform Reference Federation Object Model (RPR FOM), Version 2.0 (10 Aug 2015)](https://www.sisostds.org/ProductsPublications/Standards/SISOStandards.aspx)
+* [SISO-STD-001.1-2015: Standard for Real-time Platform Reference Federation Object Model (RPR FOM), Version 2.0 (10 Aug 2015) ](https://www.sisostds.org/ProductsPublications/Standards/SISOStandards.aspx)
+* [SISO-REF-010-2017: Reference for Enumerations for Simulation Interoperability](https://www.sisostds.org/ProductsPublications/ReferenceDocuments.aspx)
 
 ## Papers, Presentations and Technical Reports
 
