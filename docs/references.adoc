@@ -1,7 +1,7 @@
 ## Standards, Reference and Guidance Documents
 
 * **NATO**
- * [STANAG 4603 Ed 2](https://nso.nato.int/nso/nsdd/stanagdetails.html?idCover=8285&LA=EN) - [IEEE 1516-2010 - High Level Architecture (HLA)](https://standards.ieee.org/findstds/standard/1516-2010.html)
+ * https://nso.nato.int/nso/nsdd/stanagdetails.html?idCover=8285&LA=EN[STANAG 4603 Ed 2] - [IEEE 1516-2010 - High Level Architecture (HLA)](https://standards.ieee.org/findstds/standard/1516-2010.html)
  * [STANREC 4800 Ed 1](https://nso.nato.int/nso/nsdd/stanrecdetails.html?idCover=8834)- [AMSP-04 Ed A - NATO Education and Training Network Federation Architecture and Federation Object Model Design](https://nso.nato.int/nso/nsdd/APdetails.html?APNo=2268&LA=EN)
  	* [AMSP-04 NETN FAFD FOM Modules](https://www.sto.nato.int/pages/natostandards.aspx)
  * [STANAG 2019 Ed.: 7](https://nso.nato.int/nso/nsdd/stanagdetails.html?idCover=8552&LA=EN) - [APP-6 Ed D - NATO Joint Military Symbology](https://nso.nato.int/nso/nsdd/apdetails.html?APNo=1912)
@@ -67,9 +67,3 @@ Behner H., Löfstrand B. (2017) **Establishing a HLA Certification Process in NA
 Löfstrand B. (2018) **NATO HLA Certification of Compliance with STANREC 4800 : AMSP-04 NETN FAFD** Presentation at 13th CAX Forum. Sofia. September 2018. 
 
 Löfstrand B. (2018) **STANREC 4800 - AMSP-04 NATO Education and Training Network Federation Agreement and FOM Design** NMSG Symposium. Multinational Interoperability: Agility for Military Training and Operational Applications Innovation in Enterprise Level Consortiums and M&S Technology Development. MP-MSG-159-12. ISBN 978-92-837-2197-0. Ottawa. October 2018. - [Paper](https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-12.pdf) & [Presentation](https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-12P.pdf).
-
-    
-    
-    
-
-    
