@@ -1,4 +1,4 @@
-## Standards, Reference and Guidance Documents
+= Standards, Reference and Guidance Documents
 
 == References
  * https://nso.nato.int/nso/nsdd/stanagdetails.html?idCover=8285&LA=EN[STANAG 4603 Ed 2] - https://standards.ieee.org/findstds/standard/1516-2010.html[IEEE 1516-2010 - High Level Architecture (HLA)]
