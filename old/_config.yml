@@ -1,7 +1,8 @@
-theme: jekyll-theme-cayman
-layout: page
+remote_theme: pages-themes/cayman@v0.2.0
 title: "NETN FOM v3.0"
 description: "NATO Education and Training Network (NETN) Federation Object Model (FOM)"
 show_downloads: true
 download_url: ./fom-versions/NETNFOMv3.0.zip
 repo_url: https://github.com/AMSP-04/NETN-FOM
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
